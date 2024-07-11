@@ -30,6 +30,11 @@ The CDEvents Implementation Working Group focuses on defining the functional and
 * Cross project collaboration - Getting project to implement events
 * Visualization - Ability to see the event paths.
 
+## Deliverables
+
+The Implementation Working Group work is in progress.
+You can follow what we're building through the [deliverables documentation](./docs/README.md).
+
 ## Members
 
 In alphabetical order, by first name.
